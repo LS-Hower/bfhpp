@@ -1,2 +1,3 @@
 # bfhpp
-Simple Brainfuck simulator in C++20
+
+Header-only, simple Brainfuck simulator in C++23

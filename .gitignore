@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# Below are hand-written rules
+
+compile_flags.txt
+src/gcm.cache/
+
+# VS Code
+.vscode/
